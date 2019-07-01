@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer_manager.iml" filepath="$PROJECT_DIR$/consumer_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer_service/consumer_service.iml" filepath="$PROJECT_DIR$/consumer_service/consumer_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer_web/consumer_web.iml" filepath="$PROJECT_DIR$/consumer_web/consumer_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email_service/email_service.iml" filepath="$PROJECT_DIR$/email_service/email_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_api/service_api.iml" filepath="$PROJECT_DIR$/service_api/service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_entity/service_entity.iml" filepath="$PROJECT_DIR$/service_entity/service_entity.iml" />
+    </modules>
+  </component>
+</project>

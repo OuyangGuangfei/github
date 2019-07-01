@@ -1,0 +1,7 @@
+spring:
+  mail:
+    protocol: stmp
+    host: smtp.sina.com
+    username: goodHello
+    password: goodHello123
+
